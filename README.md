@@ -7,7 +7,7 @@ A simple two-hue visual simulation that is inspired by slime mold foraging activ
 
 Inspiration and story behind this project: I am always fascinated by biological systems. One system I am particularily fascinated with is slime mold foraging behavior. When it comes to path and efficiency optimization, we are nowhere near its rival. Though the intricacies of slime mold behavior are too complex to fully model given my current skillset, it would be cool to make art mimicking their behavior in the simplist way possible. There are many artists that make art with slime mold in real life, creating colorful and wonderful foraging networks. What if I could so something similar but digitally? Hence this project.
 
-## How to run the code:
+### How to run the code:
 Just install the packages numpy and matplotlib, and you should be able to run the code. Tweak the parameters to your liking!
 
 ### Personal challenges:
